@@ -1,2 +1,2 @@
 # QuizBee
-A quiz Web Application on ReactJS 
+A quiz Web Application on ReactJS. 
